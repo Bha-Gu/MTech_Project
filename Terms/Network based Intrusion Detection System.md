@@ -1,0 +1,2 @@
+NIDS is deployed on the network with the aim to protect all devices and the entire network from intrusions. 
+The NIDS will constantly monitor the network traffic and scans for potential security breaches and violations.
